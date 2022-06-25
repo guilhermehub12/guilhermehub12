@@ -2,7 +2,7 @@
 
   - 💻 Hoje Estudo Front-End
   - 🎯 Estudando JavaScript
-  - 🏊‍♂️ Nadar é meu hobbie
+  - 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ 🏋️‍♂️ 🎶
 
 <div>
   <a href="https://github.com/guilhermehub12">
