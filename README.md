@@ -1,5 +1,12 @@
 <h2>Oi, Eu sou o Guilherme Delmiro</h2>
 
+<div>
+  <a href="https://github.com/guilhermehub12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehub12&layout=compact&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehub12&layout=compact&theme=radical">
+  </a>
+</div>
+
   - 💻 Hoje Estudo Front-End
   - 🎯 Estudando JavaScript
   - 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ 🏋️‍♂️ 🎶
@@ -37,12 +44,6 @@
 -->
 </div>
 <br>
-
-<div>
-  <a href="https://github.com/guilhermehub12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehub12&layout=compact&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehub12&layout=compact&theme=radical">
-</div>
  
 ##
 
