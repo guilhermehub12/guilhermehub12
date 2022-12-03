@@ -11,7 +11,7 @@
 
 ## 🪐 About me
   - 💻 Learning Front-End
-  - :zap: Studying concepts about UX design
+  - :zap: Studying concepts about TDD/BDD
   - 🎓 Degree in Systems Analysis and Development (UFCA) starts in 2023
   - 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ 🏋️‍♂️ 🎶
 
