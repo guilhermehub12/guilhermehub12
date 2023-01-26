@@ -51,7 +51,7 @@
     <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehub12&theme=blue-green"/>
       </div>
       <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehub12&theme=blue-green"/>
         </div>
 </a>
 </details>
