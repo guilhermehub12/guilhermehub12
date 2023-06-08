@@ -5,14 +5,15 @@
     <a href="https://www.linkedin.com/in/guilhermedelmiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a> 
     <a href="https://codepen.io/guilhermee12/" target="_blank"><img src="https://img.shields.io/badge/-CodePen.io-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" target="_blank"></a> 
    </div>
-> Eu sou apenas mais um <b>jovem</b> de 20 anos que adora tecnologia e que há pouco tempo vem se desafiando aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
+> Eu sou apenas mais um <b>jovem</b> de 20 anos que adora tecnologia e que há pouco tempo vem se desafiando e aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
 
 <br />
 
 ## 🪐 About me
   - 💻 Learning Front-End
-  - :zap: Studying concepts about TDD/BDD
-  - 🎓 Degree in Systems Analysis and Development (UFCA) starts in 2023
+  - :zap: Studying Quality Assurance (QA)
+  - 🎯 Volunteer
+  - 🎓 Graduating in Systems Analysis and Development (UFCA)
   - 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ 🏋️‍♂️ 🎶
 
 <br />
@@ -27,6 +28,7 @@
 
   ## 🤓 Learnin':
   - ReactJS
+  - Next.js
   - TailwindCSS
   - Sass
   - PostgreSQL
