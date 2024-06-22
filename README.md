@@ -3,8 +3,9 @@
     <a href="mailto:guilhermedelmiro11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>  
     <a href="https://www.linkedin.com/in/guilhermedelmiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a> 
     <a href="https://codepen.io/guilhermee12/" target="_blank"><img src="https://img.shields.io/badge/-CodePen.io-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" target="_blank"></a> 
+    <a href="https://guilhermedelmiro.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Meu_Portfolio-blue"></a>
    </div>
-> Eu sou apenas mais um <b>jovem</b> de 21 anos que adora tecnologia e que vem se desafiando e aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
+> Sou um <b>jovem</b> de 21 anos que adora tecnologia e que vem se desafiando e aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
 
 <br />
 
