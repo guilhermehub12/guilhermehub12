@@ -60,6 +60,7 @@
       <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehub12&theme=blue-green"/>
         </div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermehub12&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 </a>
 </details>
 
