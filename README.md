@@ -5,15 +5,15 @@
     <a href="https://codepen.io/guilhermee12/" target="_blank"><img src="https://img.shields.io/badge/-CodePen.io-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" target="_blank"></a> 
     <a href="https://guilhermedelmiro.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Meu_Portfolio-blue"></a>
    </div>
-> Sou um <b>jovem</b> de 22 anos que adora tecnologia e que vem se desafiando e aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
+> Sou um <b>jovem</b> que adora tecnologia e que vem se desafiando e aprendendo novas coisas todos os dias, como por exemplo, o desenvolvimento web.
 
 <br />
 
 ## 🪐 About me
-  - 💻 Learning Back-End
-  - ⚡ Studying Laravel and Reactjs
+  - 💻 Improving Python and AI Skills
+  - ⚡ Studying Every Day
   - 📖 Reading The Lean Startup
-  - 🎯 Volunteer
+  - 🎯 Volunteer and Leader
   - 🎓 Graduated in Systems Analysis and Development (UFCA)
   - 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ 🏋️‍♂️ 🎶
 
@@ -28,14 +28,10 @@
   - JavaScript
   - PHP
   - Laravel
-  - Docker
-
-  ## 🤓 Learnin':
-  - ReactJS
+  - Nest
   - Next.js
-  - TailwindCSS
-  - Sass
-  - PostgreSQL
+  - Python (FastAPI, Django)
+  - Docker
 
   ## 🔬 Tools:
   - Git
@@ -44,6 +40,8 @@
   - Linux
   - Selenium
   - Notion
+  - Datadog
+  - AWS
   
 </details>
 
